@@ -1,0 +1,76 @@
+@font-face{font-family:"SF UI Text LightItalic";src:url("fonts/SFUIText-LightItalic.eot");src:url("fonts/SFUIText-LightItalic.eot?#iefix") format("embedded-opentype"), url("fonts/SFUIText-LightItalic.woff2") format("woff2"), url("fonts/SFUIText-LightItalic.woff") format("woff"), url("fonts/SFUIText-LightItalic.ttf") format("truetype");font-weight:300;font-style:italic;font-display:swap;}
+@font-face{font-family:"Eczar";src:url("fonts/Eczar-ExtraBold.eot");src:url("fonts/Eczar-ExtraBold.eot?#iefix") format("embedded-opentype"), url("fonts/Eczar-ExtraBold.woff2") format("woff2"), url("fonts/Eczar-ExtraBold.woff") format("woff"), url("fonts/Eczar-ExtraBold.ttf") format("truetype");font-weight:800;font-style:normal;font-display:swap;}
+@font-face{font-family:"Eczar";src:url("fonts/Eczar-SemiBold.eot");src:url("fonts/Eczar-SemiBold.eot?#iefix") format("embedded-opentype"), url("fonts/Eczar-SemiBold.woff2") format("woff2"), url("fonts/Eczar-SemiBold.woff") format("woff"), url("fonts/Eczar-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal;font-display:swap;}
+@font-face{font-family:"SF UI Text";src:url("fonts/SFUIText-Heavy.eot");src:url("fonts/SFUIText-Heavy.eot?#iefix") format("embedded-opentype"), url("fonts/SFUIText-Heavy.woff2") format("woff2"), url("fonts/SFUIText-Heavy.woff") format("woff"), url("fonts/SFUIText-Heavy.ttf") format("truetype");font-weight:900;font-style:normal;font-display:swap;}
+@font-face{font-family:"SF UI Text Light";src:url("fonts/SFUIText-Light.eot");src:url("fonts/SFUIText-Light.eot?#iefix") format("embedded-opentype"), url("fonts/SFUIText-Light.woff2") format("woff2"), url("fonts/SFUIText-Light.woff") format("woff"), url("fonts/SFUIText-Light.ttf") format("truetype");font-weight:300;font-style:normal;font-display:swap;}
+@font-face{font-family:"SF UI Text Regular";src:url("fonts/SFUIText-Regular.eot");src:url("fonts/SFUIText-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/SFUIText-Regular.woff2") format("woff2"), url("fonts/SFUIText-Regular.woff") format("woff"), url("fonts/SFUIText-Regular.ttf") format("truetype");font-weight:normal;font-style:normal;font-display:swap;}}
+@font-face{font-family:"Eczar Regular";src:url("fonts/Eczar-Regular.eot");src:url("fonts/Eczar-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Eczar-Regular.woff2") format("woff2"), url("fonts/Eczar-Regular.woff") format("woff"), url("fonts/Eczar-Regular.ttf") format("truetype");font-weight:normal;font-style:normal;font-display:swap;}
+@font-face{font-family:"Eczar";src:url("fonts/Eczar-Bold.eot");src:url("fonts/Eczar-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/Eczar-Bold.woff2") format("woff2"), url("fonts/Eczar-Bold.woff") format("woff"), url("fonts/Eczar-Bold.ttf") format("truetype");font-weight:bold;font-style:normal;font-display:swap;}
+@font-face{font-family:"SF UI Text Medium";src:url("fonts/SFUIText-Medium.eot");src:url("fonts/SFUIText-Medium.eot?#iefix") format("embedded-opentype"), url("fonts/SFUIText-Medium.woff2") format("woff2"), url("fonts/SFUIText-Medium.woff") format("woff"), url("fonts/SFUIText-Medium.ttf") format("truetype");font-weight:500;font-style:normal;font-display:swap;}
+@font-face{font-family:"SF UI Text Semibold";src:url("fonts/SFUIText-Semibold.eot");src:url("fonts/SFUIText-Semibold.eot?#iefix") format("embedded-opentype"), url("fonts/SFUIText-Semibold.woff2") format("woff2"), url("fonts/SFUIText-Semibold.woff") format("woff"), url("fonts/SFUIText-Semibold.ttf") format("truetype");font-weight:600;font-style:normal;font-display:swap;}
+@font-face{font-family:"Eczar Medium";src:url("fonts/Eczar-Medium.eot");src:url("fonts/Eczar-Medium.eot?#iefix") format("embedded-opentype"), url("fonts/Eczar-Medium.woff2") format("woff2"), url("fonts/Eczar-Medium.woff") format("woff"), url("fonts/Eczar-Medium.ttf") format("truetype");font-weight:500;font-style:normal;font-display:swap;}
+@font-face{font-family:"SF UI Text";src:url("fonts/SFUIText-Bold.eot");src:url("fonts/SFUIText-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/SFUIText-Bold.woff2") format("woff2"), url("fonts/SFUIText-Bold.woff") format("woff"), url("fonts/SFUIText-Bold.ttf") format("truetype");font-weight:bold;font-style:normal;font-display:swap;}
+@font-face{font-family:"Cookie";src:url("fonts/Cookie-Regular.eot");src:url("fonts/Cookie-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Cookie-Regular.woff2") format("woff2"), url("fonts/Cookie-Regular.woff") format("woff"), url("fonts/Cookie-Regular.ttf") format("truetype");font-weight:normal;font-style:normal;font-display:swap;}
+@font-face{font-family:"Averta Demo PE ExtraBold";src:url("fonts/AvertaDemoPE-ExtraBold.eot");src:url("fonts/AvertaDemoPE-ExtraBold.eot?#iefix") format("embedded-opentype"), url("fonts/AvertaDemoPE-ExtraBold.woff2") format("woff2"), url("fonts/AvertaDemoPE-ExtraBold.woff") format("woff"), url("fonts/AvertaDemoPE-ExtraBold.ttf") format("truetype");font-weight:800;font-style:italic;font-display:swap;}
+@font-face{font-family:"Black Bruno";src:url("fonts/BlackBruno.eot");src:url("fonts/BlackBruno.eot?#iefix") format("embedded-opentype"), url("fonts/BlackBruno.woff2") format("woff2"), url("fonts/BlackBruno.woff") format("woff"), url("fonts/BlackBruno.ttf") format("truetype");font-weight:normal;font-style:normal;font-display:swap;}
+@font-face{font-family:"Averta Demo PE";src:url("fonts/AvertaDemoPE-Regular.eot");src:url("fonts/AvertaDemoPE-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/AvertaDemoPE-Regular.woff2") format("woff2"), url("fonts/AvertaDemoPE-Regular.woff") format("woff"), url("fonts/AvertaDemoPE-Regular.ttf") format("truetype");font-weight:normal;font-style:normal;font-display:swap;}
+@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:400;font-display:block;src:url("../fontawesome/webfonts/fa-brands-400.eot");src:url("../fontawesome/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"), url("../fontawesome/webfonts/fa-brands-400.woff2") format("woff2"), url("../fontawesome/webfonts/fa-brands-400.woff") format("woff"), url("../fontawesome/webfonts/fa-brands-400.ttf") format("truetype"), url("../fontawesome/webfonts/fa-brands-400.svg#fontawesome") format("svg");}
+ @font-face{font-family:'SF UI Text HeavyItalic';src:url('fonts/SFUIText-HeavyItalic.eot');src:url('fonts/SFUIText-HeavyItalic.eot?#iefix') format('embedded-opentype'), url('fonts/SFUIText-HeavyItalic.woff2') format('woff2'), url('fonts/SFUIText-HeavyItalic.woff') format('woff'), url('fonts/SFUIText-HeavyItalic.ttf') format('truetype');font-weight:900;font-style:italic;font-display:swap;}
+body{margin:0;font-family:"SF UI Text Medium", Arial, Helvetica, sans-serif;font-size:14px;color:#000;background:#ffffff;max-width:480px;}
+h1,h2,h3,h4,h5,h6{display: block;font-weight:900;margin:0;}
+ul{padding:0;}a,a:hover{text-decoration:none;}
+ul li{list-style: none;}
+form{width:100%;position: relative;}
+form button{position: absolute;right:5px;border:0;right:15px;background: unset;top: 8px;}
+form button:focus{outline:unset;}
+ select{width:50px;border: 0;border-bottom: 1px solid #000;outline:unset;}
+ input{border: 0;outline:unset;width:40px;text-align: center;font-size:18px;}
+select:focus{border: 0;border-bottom: 1px solid #000;outline:unset;}
+input:focus{border: 0;outline:unset;}
+.scroll-box{overflow-y:auto;}.scroll-box::-webkit-scrollbar{background:rgba(196,203,214,.2);width:.2em;}.scroll-box::-webkit-scrollbar,.scroll-box::-webkit-scrollbar-thumb{overflow:visible;border-radius:2px;}.scroll-box::-webkit-scrollbar-thumb{background:rgba(145,154,169,.2);}.scroll-box::-webkit-scrollbar-thumb:hover{background:rgba(145,154,169,.4);}
+.scroll-menu{white-space: nowrap;overflow-x: scroll;overflow-y: hidden;flex-wrap:nowrap;}.scroll-menu::-webkit-scrollbar{background:rgba(196,203,214,.2);width:.2em;}.scroll-menu::-webkit-scrollbar,.scroll-menu::-webkit-scrollbar-thumb{overflow:visible;border-radius:4px;}.scroll-menu::-webkit-scrollbar-thumb{background:rgba(145,154,169,.1);}.scroll-menu::-webkit-scrollbar-thumb:hover{background:rgba(145,154,169,.2);}
+.btn-block{display:inline-grid;width:auto;}
+.form-control{border-radius: 25px;width:-webkit-fill-available;padding:5px 10px;margin:8px;outline:unset;}
+.btn{margin: 10px 0;outline: unset;background: #fff;color: #0036ff;font-size: 17px;border-radius: 4px;font-family: "Averta Demo PE ExtraBold";padding: 6px 30px;border: 1px solid #0036ff;border-radius:25px;}
+.btn:focus{color: #0036ff;}
+.btn:hover{outline-color:unset;color: #0036ff;}
+.btn-primary {background: #0036ff;color: #fff;border: 0;}
+.btn-primary span{padding: 0 5px;border-right:1px solid #fff;margin-right:10px;}
+.btn.btn-sm{margin:10px 0 0 0;font-size: 14px;border-radius:4px;padding:2px 15px;}
+.numbers-row{display: flex;align-items: center;flex-direction: column;}
+.form-inuput-data{width:10px;border:0;outline:unset;width: 45px;text-align: center;}
+.inc,.dec  {text-align: center;width: 20px;height: 20px;line-height: 16px;border: 1px solid #ced4da;box-shadow: 0px 0px 0px 0 rgba(32, 33, 36, .28);border-radius: 25px;}
+.btn-primary:hover,.btn-primary:focus{color:#fff;} 
+.yumi_inner{text-align:center;background:url("../img/homepage_bg.png") no-repeat;background-size:cover;background-position:left center;}
+.yumi_inner_bg{background-color:#f5f5f5d4;}
+.yumi_inner_bgout img{width:260px;height:200px;}
+.yumi_inner_bgout{padding: 40px 0;}
+.yumi_inner_bg h2{font-size:60px;}
+.yumi_inner_bg .btn-block{margin-bottom: 20px;}
+.yumi_logo_appinner{position: relative;display: flex;align-items: center;justify-content: center;align-self:center;margin: 20px 25px;}
+.yumi_logo_appinner img{width:50px;}
+.yumi_logo_appinner h6{font-size: 26px;}
+.food_item .btn-block{display: block;text-align: center;}
+.ordered_itemlist ul li{display: flex;margin:7px 0;}
+.ordered_itemlist ul li img	{border-radius:50%;width:110px;height:110px;}
+.order_list_inner{display: flex;align-items: center;justify-content: space-between;width:100%;}
+.plate_logo{position: absolute;right:0;}
+.plate_logo img{width:34px;}
+.yumi_logo_appinner_1{display: flex;justify-content: center;}
+.plate_logo span{right: -4px;top: -10px;width: 20px;height: 20px;position: absolute;border-radius: 25px;background-color: #1c8afffa;color: #fff;line-height: 20px;text-align: center;}
+.tabs_block .nav-tabs .nav-link{padding:0;text-align: center;border-radius:0;display:flex;flex-direction:column;align-items:center;border:0;color:#6a7688;}
+.tabs_block ul{justify-content: space-between !important;}
+.tabs_block .nav-tabs .nav-item:last-child,.tabs_block .nav-tabs{border:0;}
+.tabs_block .nav-tabs .nav-item img{width:50px;padding: 8px;}
+.tabs_block .nav-tabs .nav-link.active img{background-color:#1c8afffa;border-radius:5px;margin-bottom: 5px;}
+.tabs_block .tab-content{padding:15px 0;}
+.tabs_block .nav-tabs .nav-item{min-width:20%;}
+.tabel_select{margin: 20px 0;}
+.numbers-row i{font-size:12px;}
+.numbers-row button.btn-circle{text-align: center;padding: 0; width: 25px;height: 25px;font-size: 19px;line-height: 12px;border: 1px solid #ced4da;box-shadow: 0px 0px 0px 0 rgba(32, 33, 36, .28);border-radius: 25px;background-color: #fff;}
+.numbers-row button.btn-circle:focus{outline:unset;border:1px solid #ced4da;}
+.order_list_inner_add{display: flex;flex-direction:column;font-size: 17px;}
+.order_list_inner_add span{margin-bottom:10px;}
+.tabel_select span{text-align:center;background:url("../img/Ellipse2.png") no-repeat center;}
+.tabs_block span.background2{background:url("../img/RoundedRectangle6.png") no-repeat center;display: inline-block;margin-bottom: 10px;}
+.ordered_itemlist > span{background:url("../img/Ellipse1.png") no-repeat center;}
